@@ -7,7 +7,7 @@ Writing Contracts · Exploring Web3 · Building in Public
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">🧑‍💻 about me!</h2>
 
 <p align="center">
 I focus mainly on <strong>Web3</strong> and <strong>Solidity</strong>.<br>
@@ -16,7 +16,7 @@ Here I share my skills, experiments, and growth in smart contract development.
 
 ---
 
-<h2 align="center">⚙️ What I Use</h2>
+<h2 align="center">⚙️ what i use?</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity" />
@@ -27,7 +27,7 @@ Here I share my skills, experiments, and growth in smart contract development.
 
 ---
 
-<h2 align="center">🚧 What I'm Doing Now</h2>
+<h2 align="center">🚧 what i doing now?</h2>
 
 <ul align="center">
   <li>Uploading experiments with Solidity contracts to GitHub</li>
@@ -38,7 +38,7 @@ Here I share my skills, experiments, and growth in smart contract development.
 
 ---
 
-<h2 align="center">🎯 Why I'm Here</h2>
+<h2 align="center">🎯 why im here?</h2>
 
 <p align="center">
 Let’s move forward, because development is the only meaning of our life.
@@ -46,7 +46,7 @@ Let’s move forward, because development is the only meaning of our life.
 
 ---
 
-<h2 align="center">📬 Find Me</h2>
+<h2 align="center">📬 find me!</h2>
 
 <p align="center">
 <a href="https://twitter.com/itosonoma">
